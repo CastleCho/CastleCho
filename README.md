@@ -1,8 +1,8 @@
 <div align="center">
   
   ### Hi there 👋 I'm Seongju 
-  * 😎I'm currently studying `Front End` with `React.js`😎</br>
-  * 🌱I'm interested in `project manager` and 'data science'🌱</br>
+  * 😎I'm currently studying `Back End` with `Data Analysis`😎</br>
+  * 🌱I'm interested in `Project manager` and `Data Science`🌱</br>
   * 🥇I majored in `E-Business` and `AI`🥇
  
   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:ghcho333@ajou.ac.kr) 
@@ -15,4 +15,3 @@
   ![sql](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 
 </div>
--->
