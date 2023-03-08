@@ -1,7 +1,7 @@
 <div align="center">
   
   ### Hi there 👋 I'm Seongju 
-  * 😎I'm currently studying `Back End` with `Data Analysis`😎</br>
+  * 😎I'm currently studying `Data Analysis` with `Python`😎</br>
   * 🌱I'm interested in `Project manager` and `Data Science`🌱</br>
   * 🥇I majored in `E-Business` and `AI`🥇
  
