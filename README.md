@@ -13,5 +13,6 @@
   ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white)
   ![python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
   ![sql](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 
 </div>
