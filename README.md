@@ -13,7 +13,7 @@
   ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white)
   ![python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
   ![sql](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
-  ![react](https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white)
+  ![react](https://img.shields.io/badge/react-61DAFB?style=flat&logo=reactnative&logoColor=white)
   ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logoColor=white)
 
 </div>
